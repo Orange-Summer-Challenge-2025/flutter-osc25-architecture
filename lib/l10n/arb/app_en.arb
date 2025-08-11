@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "loginAppBarTitle": "Login App Bar",
+  "buttonTextLogin": "Login",
+  "labelTextEmail": "Email address",
+  "labelTextPassword": "Password"
+}
